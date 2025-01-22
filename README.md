@@ -3,15 +3,13 @@
 I love coding and I'm always experimenting with new projects to test my skills.
 
 I'm currently learning web development, and my stack includes:
-
-<div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%;">
-  <img src="https://github.com/555Viktor/555Viktor/blob/main/assets/html-5.svg" width="50" />
-  <img src="https://github.com/555Viktor/555Viktor/blob/main/assets/css-3.svg" width="50" />
-  <img src="https://github.com/555Viktor/555Viktor/blob/main/assets/javascript.svg" width="50" />
-  <img src="https://github.com/555Viktor/555Viktor/blob/main/assets/terminal.svg" width="50" />
-  <img src="https://github.com/555Viktor/555Viktor/blob/main/assets/ubuntu.svg" width="50" />
-  <img src="https://github.com/555Viktor/555Viktor/blob/main/assets/webpack.svg" width="50" />
-</div>
+<br>
+<img src="https://github.com/555Viktor/555Viktor/blob/main/assets/html-5.svg" width="50" style="margin: 0 15px;" />
+<img src="https://github.com/555Viktor/555Viktor/blob/main/assets/css-3.svg" width="50" style="margin: 0 15px;" />
+<img src="https://github.com/555Viktor/555Viktor/blob/main/assets/javascript.svg" width="50" style="margin: 0 15px;" />
+<img src="https://github.com/555Viktor/555Viktor/blob/main/assets/terminal.svg" width="50" style="margin: 0 15px;" />
+<img src="https://github.com/555Viktor/555Viktor/blob/main/assets/ubuntu.svg" width="50" style="margin: 0 15px;" />
+<img src="https://github.com/555Viktor/555Viktor/blob/main/assets/webpack.svg" width="50" style="margin: 0 15px;" />
 
 When I'm not coding, you can find me at the gym or working on other projects.
 
