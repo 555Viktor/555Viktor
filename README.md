@@ -1,6 +1,7 @@
 # Hey there! I'm Viktor 👋
 
-I'm currently learning web development, and my stack includes:
+I'm currently learning web development, my **stack** includes:
+<br>
 <img src="https://github.com/555Viktor/555Viktor/blob/main/assets/html-5.svg" width="40" />
 <img src="https://github.com/555Viktor/555Viktor/blob/main/assets/css-3.svg" width="40" />
 <img src="https://github.com/555Viktor/555Viktor/blob/main/assets/javascript.svg" width="40" />
