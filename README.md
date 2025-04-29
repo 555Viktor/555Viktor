@@ -10,4 +10,4 @@ When I'm not coding, you can find me at the gym or working on other projects.
 
 Feel free to check out my work and let's connect!
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/>](https://www.instagram.com/vaskov555/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" />](https://www.instagram.com/vaskov555/)
