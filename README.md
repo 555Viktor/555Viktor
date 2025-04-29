@@ -14,4 +14,4 @@ Feel free to check out my work and let's connect!
 &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" />](https://www.instagram.com/vaskov555/)
 &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LinkedIn_Logo_2013.png" alt="LinkedIn" width="30" height="30" />](https://www.linkedin.com/in/viktor-vaskov-555963361/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/LinkedIn_icon.svg" alt="LinkedIn" width="30" height="30" />](https://www.linkedin.com/in/viktor-vaskov-555963361/)
