@@ -12,4 +12,4 @@ Feel free to check out my work and let's connect!
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" />](https://www.instagram.com/vaskov555/)
 &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Facebook_Messenger_logo_2020.png" alt="Messenger" width="30" height="30" />](https://www.facebook.com/viktor.vaskov.7/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="30" height="30" />](https://www.facebook.com/viktor.vaskov.7/)
