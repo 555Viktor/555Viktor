@@ -1,6 +1,6 @@
 # Hey there! I'm Viktor 👋
 
-I love coding and I'm always experimenting with new projects to test my skills.
+I do web development and I'm always experimenting with new projects to test my skills.
 
 I'm currently learning web development, and my stack includes:
 <br>
